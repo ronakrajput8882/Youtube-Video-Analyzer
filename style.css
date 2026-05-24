@@ -31,7 +31,7 @@ body,
   display: flex;
   align-items: center;
   justify-content: center;
-  font-color: #ededf2;
+  color: white;
   font-weight: 800;
   font-size: 13px;
 }
@@ -73,7 +73,7 @@ body,
 .hero-title {
   font-size: 56px;
   font-weight: 900;
-  color: #2e2e42 !important;
+  color: #1a1a2e !important;
   letter-spacing: -1px;
   line-height: 1.1;
   margin: 0;
