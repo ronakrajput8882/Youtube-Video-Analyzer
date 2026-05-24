@@ -31,7 +31,7 @@ load_css()
 st.markdown("""
 <div class="top-bar">
     <div class="top-bar-left">
-        <div style="width:38px;height:38px;background:#1a1a2e;border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-weight:800;font-size:13px;">&lt;/&gt;</div>
+        <div style="width:38px;height:38px; border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-weight:800;font-size:13px;">&lt;/&gt;</div>
         <span class="handle">@techwithronak</span>
         <div class="verified">&#10003;</div>
     </div>
