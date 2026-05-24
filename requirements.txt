@@ -1,2 +1,6 @@
 dedent
 youtube_transcript_api
+streamlit
+agno
+groq
+python-dotenv
