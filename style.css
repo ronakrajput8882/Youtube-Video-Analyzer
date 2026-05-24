@@ -17,6 +17,9 @@ body,
   align-items: center;
   justify-content: space-between;
   margin-bottom: 8px;
+  background: #1a1a2e;
+  border-radius: 16px;
+  padding: 10px 18px;
 }
 .top-bar-left {
   display: flex;
