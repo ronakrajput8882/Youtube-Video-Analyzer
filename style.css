@@ -207,6 +207,9 @@ div[data-baseweb="notification"] {
 [data-testid="stMarkdownContainer"] .badge-pill {
   color: #ffffff !important;
 }
+[data-testid="stMarkdownContainer"] .sparks {
+  color: #2d5be3 !important;
+}
 [data-testid="stMarkdownContainer"] p,
 [data-testid="stMarkdownContainer"] li {
   color: #1a1a2e !important;
