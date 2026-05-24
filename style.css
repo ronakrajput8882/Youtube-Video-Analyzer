@@ -175,7 +175,7 @@ body,
   font-weight: 700 !important;
   padding: 12px !important;
   width: 100% !important;
-  margin-left: 64%;
+  margin-left: 70%;
 }
 [data-testid="stButton"] > button:hover {
   background: #038df0 !important;
