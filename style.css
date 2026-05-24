@@ -48,13 +48,13 @@ body,
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: white; 
+  color: white;
   font-size: 11px;
   font-weight: 700;
 }
 .badge-pill {
   background: #1a1a2e;
-  color: white; 
+  color: white;
   padding: 5px 14px;
   border-radius: 20px;
   font-size: 13px;
@@ -124,7 +124,7 @@ body,
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #1a1a2e; 
+  color: #1a1a2e;
   font-size: 16px;
 }
 .result-title {
@@ -195,11 +195,9 @@ div[data-baseweb="notification"] {
   color: #1a1a2e !important;
   font-family: "Poppins", sans-serif !important;
 }
-
 [data-testid="stMarkdownContainer"] * {
   color: #1a1a2e !important;
 }
-
 [data-testid="stMarkdownContainer"] p,
 [data-testid="stMarkdownContainer"] li {
   color: #1a1a2e !important;
@@ -221,7 +219,6 @@ div[data-baseweb="notification"] {
   color: #2d5be3 !important;
   font-weight: 800 !important;
 }
-
 [data-testid="stMarkdownContainer"] code {
   background: #eae4d8 !important;
   color: #1a1a2e !important;
