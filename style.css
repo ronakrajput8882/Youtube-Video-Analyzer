@@ -206,6 +206,12 @@ div[data-baseweb="notification"] {
   color: #1a1a2e !important;
   font-weight: 800 !important;
 }
+[data-testid="stMarkdownContainer"] table,
+[data-testid="stMarkdownContainer"] th,
+[data-testid="stMarkdownContainer"] td {
+    color: #1A1A2E !important;
+    border-color: #EAE4D8 !important;
+}
 [data-testid="stMarkdownContainer"] h2 {
   color: #2d5be3 !important;
   font-weight: 800 !important;
