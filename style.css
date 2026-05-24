@@ -198,6 +198,15 @@ div[data-baseweb="notification"] {
 [data-testid="stMarkdownContainer"] * {
   color: #1a1a2e !important;
 }
+[data-testid="stMarkdownContainer"] .code-circle {
+  color: #ffffff !important;
+}
+[data-testid="stMarkdownContainer"] .verified {
+  color: #ffffff !important;
+}
+[data-testid="stMarkdownContainer"] .badge-pill {
+  color: #ffffff !important;
+}
 [data-testid="stMarkdownContainer"] p,
 [data-testid="stMarkdownContainer"] li {
   color: #1a1a2e !important;
